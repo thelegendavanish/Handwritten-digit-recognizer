@@ -25,5 +25,7 @@ pip install numpy, tensorflow, keras, pillow
 This is probably one of the most popular datasets among machine learning and deep learning enthusiasts. The MNIST dataset contains 60,000 training images of handwritten digits from zero to nine and 10,000 images for testing. So, the MNIST dataset has 10 different classes. The handwritten digits images are represented as a 28×28 matrix where each cell contains grayscale pixel value.
 
 
-
-<p>All Rights Reserved<br><strong>thelegendavanish</p>
+<h2>Screenshots:</h2>
+<p><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-machine-learning-project-output-as-number-2.png"></p>
+<p><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-machine-learning-project-output-as-number-5.png)"></p>
+<p><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-machine-learning-project-output-as-number-6.png"></p>
