@@ -13,4 +13,6 @@ The handwritten digit recognition is the ability of computers to recognize human
 
 <h2>About the Python Deep Learning Project</h2>
 
+<p><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-deep-learning-project-handwritten-digit-recognition.gif"></p>
+
 
