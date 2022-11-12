@@ -29,3 +29,6 @@ This is probably one of the most popular datasets among machine learning and dee
 <p align="center"><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-machine-learning-project-output-as-number-2.png"></p>
 <p align="center"><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-machine-learning-project-output-as-number-5.png)"></p>
 <p align="center"><img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/python-project-output-as-number-6.png"></p>
+
+
+<h1>Project By : <a href="https://www.thelegendavanish.online">thelegendavanish</h1>
