@@ -7,7 +7,7 @@ Then the neurons in his brain automatically trigger and they can quickly perform
 It uses different types of neural network architectures for different types of problems. For example – object recognition, image and sound classification, 
 object detection, image segmentation, etc.
 
-What is Handwritten Digit Recognition?
+<h2>What is Handwritten Digit Recognition?</h2>
 
 The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect and can be made with many different flavors. The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
 
